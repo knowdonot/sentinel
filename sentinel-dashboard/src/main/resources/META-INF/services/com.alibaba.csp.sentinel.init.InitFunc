@@ -1,0 +1,2 @@
+#com.taobao.csp.sentinel.dashboard.repository.rule.FileDataSourceInit
+com.taobao.csp.sentinel.dashboard.repository.rule.RedisDataSourceInit
